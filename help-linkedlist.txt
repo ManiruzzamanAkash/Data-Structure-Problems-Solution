@@ -1,0 +1,15 @@
+In linkedlistfull.c all of the functions of linked list 
+has included...
+
+1) insert
+2) display
+3) delete
+4) search
+
+
+And in simplelinkedlist.c
+
+1) insert
+2) display
+3) getCount
+
