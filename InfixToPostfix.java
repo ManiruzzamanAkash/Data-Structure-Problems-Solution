@@ -1,4 +1,8 @@
-
+/**
+@detail : Infix to postfix code in Java language using Stack
+@author : Maniruzzam Akash
+@time   : June 2016
+**/
 package infixtopostfix;
 
 import java.util.Stack;
